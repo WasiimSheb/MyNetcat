@@ -81,11 +81,7 @@ MyNetcat is a simple implementation of the netcat (nc) networking utility, writt
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+## Contact
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this template further to suit your specific needs.
+ShifaaKhatib28@gmail.com
+Wasimshebalny@gmail.com
