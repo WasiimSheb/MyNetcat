@@ -1,4 +1,3 @@
-Here is a proposed README file for the [MyNetcat repository](https://github.com/WasiimSheb/MyNetcat):
 
 ---
 
