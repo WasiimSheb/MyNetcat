@@ -50,6 +50,34 @@ MyNetcat is a simple implementation of the netcat (nc) networking utility, writt
     ./mynetcat 192.168.0.1 1234
     ```
 
+## Implementation Details
+
+### src Directory
+
+1. **q1**:
+   - **Description**: Implemented basic TCP client functionality.
+   - **Details**: Established a connection to a server and sent/received data.
+
+2. **q2**:
+   - **Description**: Implemented basic TCP server functionality.
+   - **Details**: Listened for incoming connections and handled client communications.
+
+3. **q3**:
+   - **Description**: Added UDP client functionality.
+   - **Details**: Sent and received data using the UDP protocol.
+
+4. **q4**:
+   - **Description**: Added UDP server functionality.
+   - **Details**: Listened for incoming UDP datagrams and responded appropriately.
+
+5. **q5**:
+   - **Description**: Implemented port scanning capabilities.
+   - **Details**: Scanned specified ports on a target host to check for open ports.
+
+6. **q6**:
+   - **Description**: Enhanced error handling and robustness.
+   - **Details**: Improved the stability of the application by handling various edge cases and errors.
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
